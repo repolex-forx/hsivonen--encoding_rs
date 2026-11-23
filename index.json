@@ -1,0 +1,16 @@
+{
+  "org": "hsivonen",
+  "repo": "encoding_rs",
+  "versions": [
+    {
+      "commit": "662cb427013c13eb4444e7e51e8579c9457f5e6b",
+      "tag": "v0.8.40",
+      "parsed_at": "2026-11-23T04:28:46.596172+00:00"
+    },
+    {
+      "commit": "08604915e6f1a3b7a93398aec0bb92d7a6611a6a",
+      "tag": "v0.8.41",
+      "parsed_at": "2026-11-23T00:13:22.276127+00:00"
+    }
+  ]
+}
